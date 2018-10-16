@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "303698041061",
+    "firebase_url": "https://issues-1ada6.firebaseio.com",
+    "project_id": "issues-1ada6",
+    "storage_bucket": "issues-1ada6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303698041061:android:a7e8d07f977bd4bc",
+        "android_client_info": {
+          "package_name": "com.example.merve.issues"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303698041061-djh0npg4jmj9b53ufscvc0a2hti25pli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC65nxQEcjFUsvSF8tFSLSCEQgMgr0jX2k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
